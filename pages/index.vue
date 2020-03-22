@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         Work in progress!
       </h2>
+      <div>Test</div>
     </div>
   </div>
 </template>
