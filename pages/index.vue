@@ -6,7 +6,7 @@
         szejker-test
       </h1>
       <h2 class="subtitle">
-        Work in progress
+        Work in progress!
       </h2>
     </div>
   </div>
